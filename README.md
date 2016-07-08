@@ -79,4 +79,4 @@ Cpanel provides different api by using we can access account information and dyn
 ### Replace subdomain_name in create_cpanel_subdomain.php to create subdomain
     $subdomain_name = "abc" // if your subdmoain is acb.domainname.com then subdomian name should be abc
 ## API Reference
-Used third party xmlapi client library for cpanel api calls
+Used third party xmlapi client library for cpanel api calls     
